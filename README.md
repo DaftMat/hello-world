@@ -7,4 +7,9 @@ I will explain each of these programs on here. Aswell, you will find a README in
 	- This was the programming project my university proposed on the 4th semester.
 	- Programmed in Java language.
 
-Enjoy !
+- stringExpression
+	- This was an exercise of the university to train on some data structures.
+	- Calculates an expression represented with a string (C string mf's).
+	- Programmed in C language.
+
+###### Enjoy !
