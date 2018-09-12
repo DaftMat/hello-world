@@ -1,4 +1,4 @@
 # hello-world
-My own public test repository !
+This repository will contain all the tests and exercices that work and compile properly.
 
--Ok, first change to the readme ! The new thing is this sentence.
+Enjoy !
