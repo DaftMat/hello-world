@@ -1,9 +1,9 @@
-# Calculation of a string arithmetic formula
+# Calculation of a string expression
 
 Intro
 -----
 An algorithm we did to train on basic data structures, as stacks and queues
-, that calculate the exact result of a string that represent a valid arithmetic formula.
+, that calculates the exact result of an expression represented with a string.
 
 How to compile
 --------------
